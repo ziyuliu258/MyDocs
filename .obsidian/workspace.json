@@ -6,7 +6,6 @@
       {
         "id": "7803bfa9d14ac0af",
         "type": "tabs",
-        "dimension": 67.38351254480287,
         "children": [
           {
             "id": "9be2dcda49374eab",
@@ -14,31 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retinexformer Notes.md",
+                "file": "OS_exp_README/实验二.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Retinexformer Notes"
-            }
-          }
-        ]
-      },
-      {
-        "id": "adb4ae7ddf58d1f5",
-        "type": "tabs",
-        "dimension": 32.61648745519714,
-        "children": [
-          {
-            "id": "576f0c27a34d74bf",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "essays_n_guidebooks/Retinexformer.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Retinexformer"
+              "title": "实验二"
             }
           }
         ]
@@ -162,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retinexformer Notes.md",
+                "file": "OS_exp_README/实验二.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Retinexformer Notes 的大纲"
+              "title": "实验二 的大纲"
             }
           }
         ],
@@ -176,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,31 +171,34 @@
   },
   "active": "9be2dcda49374eab",
   "lastOpenFiles": [
-    "essays_n_guidebooks/Retinexformer.pdf",
+    "字体设置记录.md",
+    "autoformer_code.md",
+    "Git分支操作.pdf",
+    "PatchTST 总结.md",
+    "TimeKAN 笔记.md",
+    "Git使用：想要回退到历史提交，但又舍不得删掉当前的更改怎么办？——用分支备份吧！.md",
     "Retinexformer Notes.md",
+    "传统暗光增强算法总结.pdf",
+    "OS_exp_README/实验二.md",
+    "OS_exp_README/实验二.pdf",
+    "传统暗光增强算法总结.md",
+    "attachments/Pasted image 20251107140924.png",
+    "attachments/Pasted image 20251107140919.png",
+    "attachments/Pasted image 20251107140545.png",
+    "attachments/Pasted image 20251107135131.png",
+    "attachments/Pasted image 20251107135128.png",
+    "attachments/Pasted image 20251107134710.png",
+    "attachments/asdf.png",
+    "attachments/Pasted image 20251107112043.png",
+    "attachments/Pasted image 20251107112032.png",
+    "attachments/Pasted image 20251107011156.png",
+    "OS_exp_README",
+    "essays_n_guidebooks/pca.pdf",
+    "attachments",
+    "essays_n_guidebooks/Retinexformer.pdf",
     "essays_n_guidebooks",
     "essaysn_guidebooks/Retinexformer.pdf",
     "essaysn_guidebooks",
-    "essay_n_guidebooks/Retinexformer.pdf",
-    "essay_n_guidebooks",
-    "essay",
-    "未命名文件夹",
-    "传统暗光增强算法总结.md",
-    "传统暗光增强算法总结.pdf",
-    "Pasted image 20251018122050.png",
-    "Pasted image 20251018115259.png",
-    "Pasted image 20251018112317.png",
-    "().md",
-    "Pasted image 20251018101626.png",
-    "Pasted image 20251018100725.png",
-    "Pasted image 20251018092340.png",
-    "Pasted image 20251017144644.png",
-    "Pasted image 20251017144325.png",
-    "Pasted image 20251017125951.png",
-    "Pasted image 20251017125842.png",
-    "autoformer_code.md",
-    "PatchTST 总结.md",
-    "pca.pdf",
-    "Git使用：想要回退到历史提交，但又舍不得删掉当前的更改怎么办？——用分支备份吧！.md"
+    "().md"
   ]
 }
