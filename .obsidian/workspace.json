@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "60d955113c9bc372",
@@ -171,6 +172,7 @@
   },
   "active": "4050327f79dd4869",
   "lastOpenFiles": [
+    "attachments/Pasted image 20251209010049.png",
     "TimeKAN 笔记.md",
     "AI/Note/人工智能笔记.md",
     "人工智能笔记.md",
