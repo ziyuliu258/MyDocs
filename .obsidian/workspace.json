@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6cb5c2ed67028bfc",
+        "id": "e280fd21e1e0165d",
         "type": "tabs",
         "children": [
           {
-            "id": "4c3a8d4ebc758d1a",
+            "id": "4050327f79dd4869",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -156,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,11 +169,23 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "4c3a8d4ebc758d1a",
+  "active": "4050327f79dd4869",
   "lastOpenFiles": [
-    "Gap_Attention_Network.md",
-    "传统暗光增强算法总结.md",
+    "TimeKAN 笔记.md",
     "AI/Note/人工智能笔记.md",
+    "人工智能笔记.md",
+    "字体设置记录.md",
+    "essays_n_guidebooks/timeseries_literature_review.pdf",
+    "essays_n_guidebooks/pdf",
+    "essays_n_guidebooks/pca.pdf",
+    "essays_n_guidebooks/fastdtw_slower.pdf",
+    "essays_n_guidebooks/fastdtw.pdf",
+    "essays_n_guidebooks/TimePre.pdf",
+    "essays_n_guidebooks/Soft-DTW.pdf",
+    "essays_n_guidebooks/LagAttn.pdf",
+    "essays_n_guidebooks/LSTM_hochreiter1997.pdf",
+    "essays_n_guidebooks/Gap_Attn_Network.pdf",
+    "attachments/asdf.png",
     "attachments/Pasted image 20251208161659.png",
     "attachments/Pasted image 20251208161650.png",
     "attachments/Pasted image 20251208161357.png",
@@ -182,27 +194,20 @@
     "attachments/Pasted image 20251208154445.png",
     "attachments/Pasted image 20251208154058.png",
     "attachments/Pasted image 20251208153819.png",
-    "Git使用：想要回退到历史提交，但又舍不得删掉当前的更改怎么办？——用分支备份吧！.md",
-    "Git分支操作.pdf",
-    "autoformer_code.md",
-    "字体设置记录.md",
-    "attachments/Pasted image 20251206031510.png",
-    "attachments/Pasted image 20251206030854.png",
-    "TimeKAN 笔记.md",
-    "AI/Note/未命名.md",
-    "LSTM Notes.md",
-    "essays_n_guidebooks/TimePre.pdf",
-    "essays_n_guidebooks/LSTM_hochreiter1997.pdf",
-    "essays_n_guidebooks/Gap_Attn_Network.pdf",
-    "essays_n_guidebooks/hochreiter1997.pdf",
-    "essays_n_guidebooks/未确认 121438.crdownload",
-    "AI/Slides/人工智能1.pdf",
-    "essays_n_guidebooks/LagAttn.pdf",
-    "AI/Note",
-    "AI/Reference_Notes/ppt例题.pdf",
+    "attachments/Pasted image 20251206210620.png",
     "OS_exp_README/实验二.md",
-    "PatchTST 总结.md",
+    "LSTM Notes.md",
+    "Gap_Attention_Network.md",
+    "APMCM25/B题初步分析.md",
+    "APMCM25/2025 APMCM Problems/2025 亚太地区大学生数学建模竞赛论文格式及提交规范.md",
+    "APMCM25/2025 APMCM Problems/2025 APMCM 论文提交规范、论文模板、承诺书/APMCM LaTeX 模板/README.md",
+    "未命名.md",
+    "未命名.canvas",
     "Retinexformer Notes.md",
-    "().md"
+    "PatchTST 总结.md",
+    "传统暗光增强算法总结.md",
+    "().md",
+    "autoformer_code.md",
+    "Git使用：想要回退到历史提交，但又舍不得删掉当前的更改怎么办？——用分支备份吧！.md"
   ]
 }
