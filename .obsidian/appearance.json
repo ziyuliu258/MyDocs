@@ -1,5 +1,7 @@
 {
   "theme": "moonstone",
-  "accentColor": "",
-  "cssTheme": "Cupertino"
+  "accentColor": "#6bbfff",
+  "cssTheme": "Border",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
+  "nativeMenus": false
 }
