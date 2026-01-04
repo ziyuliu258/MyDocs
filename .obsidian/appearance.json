@@ -1,7 +1,7 @@
 {
   "theme": "moonstone",
-  "accentColor": "#6bbfff",
-  "cssTheme": "Border",
+  "accentColor": "#61cc76",
+  "cssTheme": "Maple",
   "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
   "nativeMenus": false
 }
