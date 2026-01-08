@@ -1,7 +1,9 @@
 {
-  "theme": "moonstone",
+  "theme": "obsidian",
   "accentColor": "#61cc76",
   "cssTheme": "Maple",
   "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "textFontFamily": "PingFang SC,PingFang HK",
+  "interfaceFontFamily": "PingFang SC"
 }

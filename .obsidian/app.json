@@ -9,5 +9,6 @@
   },
   "attachmentFolderPath": "attachments",
   "readableLineLength": false,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative"
 }
