@@ -10,5 +10,6 @@
   "attachmentFolderPath": "attachments",
   "readableLineLength": false,
   "useMarkdownLinks": true,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "vimMode": false
 }

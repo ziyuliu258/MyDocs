@@ -1,9 +1,10 @@
 {
   "theme": "obsidian",
-  "accentColor": "#61cc76",
+  "accentColor": "#5cdef5",
   "cssTheme": "Maple",
   "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
   "nativeMenus": false,
   "textFontFamily": "PingFang SC,PingFang HK",
-  "interfaceFontFamily": "PingFang SC"
+  "interfaceFontFamily": "PingFang SC",
+  "baseFontSize": 14
 }
