@@ -1,3 +1,9 @@
 [
-  "global-proxy"
+  "global-proxy",
+  "obsidian-git",
+  "omnisearch",
+  "text-extractor",
+  "obsidian-pandoc",
+  "pdf-plus",
+  "ai-image-analyzer"
 ]
