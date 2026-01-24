@@ -1,4 +1,4 @@
-# Gap Attention Network
+# Graph Attention Network
 
 ## 📐 **GAT的数学定义**
 
