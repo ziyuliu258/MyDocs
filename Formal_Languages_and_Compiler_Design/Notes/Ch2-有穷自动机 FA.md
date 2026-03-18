@@ -113,7 +113,7 @@ $$
 >但是开头和结尾有错位。
 >而终止状态的构造$$F' = \{ q \in Q \mid CL(q) \cap F \neq \emptyset \}$$
 >则补齐了末尾的差别。
->而回顾$epsilon$-NFA的状态转移函数公式
+>而回顾$\epsilon$-NFA的状态转移函数公式
 >$$\hat{\delta}(q, w) = \begin{cases} CL(q), & \text{if } w = \epsilon \\ \bigcup_{p \in \hat{\delta}(q, x)} CL(\delta(p, a)), & \text{if } w = xa \end{cases}$$
 > 可以看到，它处理第一个字符之前也是做了闭包。
 > 所以，前后都对齐了，因此可以证明二者是等价的。
